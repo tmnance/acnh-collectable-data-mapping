@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@types/node": "^13.13.0",
+    "image-downloader": "^4.0.3",
+    "jimp": "^0.16.1",
+    "json-stringify-pretty-compact": "^3.0.0"
+  }
+}
